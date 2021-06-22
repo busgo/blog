@@ -1,0 +1,8 @@
+[[main]]
+  name = "Github"
+  identifier = "dropdown"
+[[main]]
+  parent = "dropdown"
+  name = "Github"
+  url = "https://github.com/busgo"
+  pre = '<i class="fab fa-fw fa-github"></i>'

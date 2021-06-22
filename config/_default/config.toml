@@ -1,0 +1,35 @@
+baseURL = "https://busgo.github.io"
+title = "Go 技术部落"
+theme = "hugo-theme-bootstrap"
+copyright = "Copyright © 2021-{year} Yuandong Gao. All Rights Reserved."
+
+# Multilingual mode
+defaultContentLanguage = "zh-cn"
+defaultContentLanguageInSubdir = true
+
+# Pagination
+paginate = 5
+# paginatePath = "page"
+
+# Disqus
+# disqusShortname = "busgo"
+
+# Google analytics
+# googleAnalytics = "UA-123-45"
+
+enableRobotsTXT = true
+
+enableEmoji = true
+
+# hasCJKLanguage = true # Turn on it if your content contains Chinese/Japanese/Korean Languages.
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"

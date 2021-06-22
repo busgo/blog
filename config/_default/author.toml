@@ -1,0 +1,6 @@
+name = "Yuandong Gao"
+# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
+bio = "Gopher, Java, Full Stack Engineer."
+company = ""
+location = "中国.杭州"
+about = "https://github.com/busgo" # The external about page. The internal about page will be used if not set.

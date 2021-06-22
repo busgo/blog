@@ -1,0 +1,3 @@
+baseURL = "https://busgo.github.io"
+languageCode = "zh-cn"
+title = "Go 技术部落"
